@@ -1,4 +1,4 @@
-# StellarClassification
+# Stellar Classification
 ## Final Project for my BSc Computer Science at the University of London
 ### Deep learning on a public dataset
 
